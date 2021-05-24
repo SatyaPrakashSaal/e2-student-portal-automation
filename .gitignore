@@ -1,3 +1,7 @@
+# App file
+app
+app/*
+
 # Compiled class file
 *.class
 
